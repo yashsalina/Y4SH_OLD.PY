@@ -1,22 +1,4 @@
-Skip to content
-yashsalina
-/
-Y4SH_OLD.PY
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Y4SH_OLD.PY/Y4SH_2008.PY
-@yashsalina
-yashsalina Rename Y4SH_OLD.PY to Y4SH_2008.PY
- 1 contributor
-417 lines (385 sloc)  29.1 KB
+
 #tere make chut okat he sala decode krega
 #yash is not a just name its brand
 W = '\033[97;1m' 
